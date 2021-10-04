@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,IADA,CACA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,UAAU;EAC3B,WAAW,EAAE,MAAM;CACtB",
+    "sources": [
+        "minecraft.scss"
+    ],
+    "names": [],
+    "file": "minecraft.css"
+}

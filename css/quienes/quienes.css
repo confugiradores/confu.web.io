@@ -1,0 +1,14 @@
+.row section {
+  color: black;
+  margin-bottom: 30px;
+}
+
+.row section h2 {
+  margin: 10px 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.row section p {
+  text-align: justify;
+}
+/*# sourceMappingURL=quienes.css.map */
